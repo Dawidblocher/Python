@@ -14,7 +14,7 @@ def increase_counter(n):
   print(localCounter)
 
 print_global()
-shadow_a()
+print(shadow_a())
 increase_counter(1)
 increase_counter(2)
 increase_counter(3)
