@@ -4,7 +4,7 @@ def print_global():
 
 def shadow_a():
   a = 5
-  print(a)
+  return a
 
 counter = int(1)
 
